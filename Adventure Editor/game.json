@@ -1,0 +1,23 @@
+{
+  "start": [
+    "Do you want to win or lose?",
+    "I want to win",
+    "win",
+    "I'd rather lose",
+    "lose"
+  ],
+  "win": [
+    "You win!",
+    "Start over",
+    "start",
+    "Quit",
+    "quit"
+  ],
+  "lose": [
+    "You lose!",
+    "Start over",
+    "start",
+    "Quit",
+    "quit"
+  ]
+}
